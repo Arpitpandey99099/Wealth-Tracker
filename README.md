@@ -32,4 +32,4 @@ The SIP Calculator module uses the standard compound interest formula for the fu
 1. Ensure you have the Java Development Kit (JDK) installed on your system.
 2. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/your-username/WealthTrack.git](https://github.com/your-username/WealthTrack.git)
+   git clone [https://github.com/Arpitpandey99099/WealthTrack.git](https://github.com/Arpitpandey99099/WealthTrack.git)
